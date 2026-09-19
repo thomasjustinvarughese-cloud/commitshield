@@ -14,3 +14,4 @@ CommitShield is a developer CLI that prevents accidental secret leakage (AWS key
 git clone [https://github.com/](https://github.com/)<your-username>/commitshield.git
 cd commitshield
 pip install requests
+[https://polar.sh/commitshield/products/commitshield-pro](https://polar.sh/commitshield/products/commitshield-pro)
