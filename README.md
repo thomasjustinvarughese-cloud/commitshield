@@ -9,9 +9,9 @@ CommitShield is a developer CLI that prevents accidental secret leakage (AWS key
 - **Smart Conventional Commits:** Summarizes your diff into clear `feat:`, `fix:`, or `docs:` semantic commit messages.
 - **Lightweight:** Single-dependency Python CLI tool.
 
-## Installation & Setup
-```bash
-git clone [https://github.com/](https://github.com/)<your-username>/commitshield.git
-cd commitshield
-pip install requests
-[https://polar.sh/commitshield/products/commitshield-pro](https://polar.sh/commitshield/products/commitshield-pro)
+## How to Install & Use
+1. Get CommitShield Pro from [Polar](https://buy.polar.sh/polar_cl_Xz7lAHW152SHAX0xhoF0nnRF4O0Cak8h4Q3DI1ghTFA).
+2. Download `commitshield.py` and your license key from your Polar receipt.
+3. Run the activation command:
+   ```bash
+   python commitshield.py --activate YOUR_LICENSE_KEY
